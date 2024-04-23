@@ -244,7 +244,7 @@ content p{
 
     }
 }
-@meda(width<600px)
+@media(width<600px)
 {
     .search{
         display:none;
